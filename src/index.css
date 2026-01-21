@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #ff8901;
-  --color-secondary: #fb923c;
+  --color-primary: #27F5A3;
+  --color-secondary: #E630F0;
  
   /* Definimos variables de padding para usarlas luego */
   --spacing-container-sm: 2rem;

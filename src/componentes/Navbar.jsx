@@ -19,8 +19,8 @@ const [abierto, setAbierto] = useState(false);
             //Sección de Logo
             <div className='text-2x1 flex ites-center gap-2 uppercase'>
                 <ImBooks />
-                <p>El sitio de LEHH</p>
-                <p className='text-secondary'>Cursos</p>
+                <p>Bienvenido a AdoptaAmigos</p>
+                <p className='text-secondary'>Mascotas</p>
             </div>
           }
 
